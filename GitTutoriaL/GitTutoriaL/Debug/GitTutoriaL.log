@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  GitTutoriaL.cpp
+d:\資料\其它\大學\year2.2\oop\gittutorial\gittutorial\gittutorial\gittutorial.cpp(28): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "pch.h"'?
+  正在產生程式碼...
